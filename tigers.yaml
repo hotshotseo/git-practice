@@ -1,18 +1,13 @@
 team: Tigers
 
-manager: Kenneth
+manager: Thanos
 
-coach: Ruth, Cooly
+coach: Ronan
 
 members:
 - Linda
 - William
 - David
 - Tyler
-- Park
-- Jully
-fetch: this
-fetch2
-new: branch
-fetch3
-new: branch1
+- Gamora
+- Nebula
